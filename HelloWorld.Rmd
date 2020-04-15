@@ -1,1 +1,12 @@
-##This is a markdown file
+---
+title: "HelloWorld"
+author: "Me"
+date: "4/16/2020"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a markdown file
