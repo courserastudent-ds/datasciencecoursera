@@ -12,7 +12,7 @@
 ##2)inversemat which is NULL till calculated.
 ##3)y which is a formal argument for the function(set()).
 
-##The function also makes a list of the functions and names each.
+##The function also makes a list of the functions and names each
 
 makeCacheMatrix <- function(x = matrix()) {
   inversemat <- NULL
